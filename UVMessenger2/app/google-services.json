@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393517433646",
+    "project_id": "uv-messenger-72436",
+    "storage_bucket": "uv-messenger-72436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393517433646:android:b93857f75695177c5930bf",
+        "android_client_info": {
+          "package_name": "com.example.uvmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393517433646-l0k427on568ce6h0hatg6ttkjb3ib6s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__VBqHDMqO_tDOKBeRhx23GBZJFKAkGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393517433646-l0k427on568ce6h0hatg6ttkjb3ib6s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
